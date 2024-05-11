@@ -1,3 +1,11 @@
+To build one of two independent versions required is g++ and make installed.
+e.g.
+```
+cd src1 
+make
+./jakdojade
+```
+
 This is english version of project description, polish version available [here](readme-polish.md)
 
 # jakdojade
